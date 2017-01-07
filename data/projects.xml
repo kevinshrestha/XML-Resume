@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE article PUBLIC "-//W3C//DTD XMLSCHEMA 200102//EN"
+
+"https://www.w3.org/TR/xhtml1/dtds.html">
+
+<article>
+		<media><image><imagedata fileref="./images/Github-Mark.png" format="PNG" /></image></media>
+	<title>Welcome!</title>
+	<section>
+		<para>Here are a few of my projects that I've worked on during my years here at Alfred State. Take a look</para>
+	</section>
+	<media><image><imagedata fileref="./images/apache.jpg" format="JPG" /></image></media>
+	<title>Apache Cordova</title>
+	<section>
+		<para>This is a simple mobile application that requires Visual Studio with the Apache Cordova plug-in and a Android or iPhone device that will let you change the color of the screen using the touch screen and device motion.</para>
+	</section>
+
+	<media><image><imagedata fileref="./images/guitar.jpg" format="JPG" /></image></media>
+	<title>Guitar Shop</title>
+	<section>
+		<para>This Guitar shop project is based off of using solely PHP. The goal for this project was to create a simple database structure the user is able to purchase, edit, add and remove items/categories from the categories of Guitars, Basses, and Drums.</para>
+	</section>
+
+	<media><image><imagedata fileref="./images/happy.jpg" format="JPG" /></image></media>
+	<title>Happy Thoughts</title>
+	<section>
+		<para>The Project is based off of a user's happy thoughts. The Project is built off of using Materialize and PHP. The User can add, delete and edit their happy thoughts and have it displayed onto the database. It uses PHP to demonstrates your happiness. The website is design by using materialize</para>
+	</section>
+</article>

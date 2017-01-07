@@ -1,0 +1,36 @@
+div.fullblack {
+
+	background-color: black;
+
+	margin: 0;
+
+}
+
+#content {
+
+	margin: 0;
+
+	padding-bottom: 0.5em;
+
+}
+
+img {
+
+	width: 40%;
+
+	border-radius: 25px;
+
+	margin: 25px 0;
+
+	display: inline-block;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}

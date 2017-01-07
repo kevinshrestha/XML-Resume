@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE article PUBLIC "-//W3C//DTD XMLSCHEMA 200102//EN"
+
+"https://www.w3.org/TR/xhtml1/dtds.html ">
+
+<article>
+				<media><image><imagedata fileref="./images/frontend.png" format="PNG" /></image></media>
+	<title>My Skillset</title>
+	<section>
+		<para>Here is a list of my skillsets thaat I've acquired during my years at Alfred State College</para>
+	</section>section
+					<media><image><imagedata fileref="./images/html.png" format="PNG" /></image></media>
+	<section>
+		<title>Web Development</title>
+		<itemizedlist>
+			<listitem>HTML5</listitem>
+			<listitem>CSS3</listitem>
+			<listitem>JavaScript</listitem>
+			<listitem>XML</listitem>
+			<listitem>PHP</listitem>
+		</itemizedlist>
+	</section>
+
+				<media><image><imagedata fileref="./images/csharp.png" format="PNG" /></image></media>
+	<section>
+		<title>Programming</title>
+		<itemizedlist>
+			<listitem>C/C++</listitem>
+			<listitem>C#</listitem>
+		</itemizedlist>
+	</section>
+
+				<media><image><imagedata fileref="./images/Technology.jpg" format="JPG" /></image></media>
+	<section>
+		<title>Other</title>
+		<itemizedlist>
+			<listitem>Leadership</listitem>
+			<listitem>Mentoring</listitem>
+			<listitem>Project Management Skills</listitem>
+			<listitem>Windows, Apple OS</listitem>
+		</itemizedlist>
+	</section>
+
+</article>
